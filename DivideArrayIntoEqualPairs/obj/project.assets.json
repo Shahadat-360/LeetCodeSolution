@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SolvingProblem\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\NumberOfSubstringsContainingAllThreeCharacters.csproj",
-      "projectName": "NumberOfSubstringsContainingAllThreeCharacters",
-      "projectPath": "D:\\SolvingProblem\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\NumberOfSubstringsContainingAllThreeCharacters.csproj",
+      "projectUniqueName": "D:\\SolvingProblem\\LeetCodeSolution\\DivideArrayIntoEqualPairs\\DivideArrayIntoEqualPairs.csproj",
+      "projectName": "DivideArrayIntoEqualPairs",
+      "projectPath": "D:\\SolvingProblem\\LeetCodeSolution\\DivideArrayIntoEqualPairs\\DivideArrayIntoEqualPairs.csproj",
       "packagesPath": "C:\\Users\\Shahadat\\.nuget\\packages\\",
-      "outputPath": "D:\\SolvingProblem\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\obj\\",
+      "outputPath": "D:\\SolvingProblem\\LeetCodeSolution\\DivideArrayIntoEqualPairs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

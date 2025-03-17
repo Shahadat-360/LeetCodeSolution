@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsContainingAllThreeCharacters", "NumberOfSubstringsContainingAllThreeCharacters\NumberOfSubstringsContainingAllThreeCharacters.csproj", "{83F6CC61-6300-405F-B9DE-D464D167FC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideArrayIntoEqualPairs", "DivideArrayIntoEqualPairs\DivideArrayIntoEqualPairs.csproj", "{643A83BF-BB8E-487A-9942-B49A5A307EF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{83F6CC61-6300-405F-B9DE-D464D167FC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F6CC61-6300-405F-B9DE-D464D167FC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F6CC61-6300-405F-B9DE-D464D167FC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
