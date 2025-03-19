@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SolvingProblem\\LeetCodeSolve\\LeetCodeSolution\\",
+  "WorkspaceRootPath": "D:\\SolvingProblem\\LeetCodeSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83F6CC61-6300-405F-B9DE-D464D167FC41}|NumberOfSubstringsContainingAllThreeCharacters\\NumberOfSubstringsContainingAllThreeCharacters.csproj|d:\\solvingproblem\\leetcodesolve\\leetcodesolution\\numberofsubstringscontainingallthreecharacters\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{643A83BF-BB8E-487A-9942-B49A5A307EF4}|DivideArrayIntoEqualPairs\\DivideArrayIntoEqualPairs.csproj|d:\\solvingproblem\\leetcodesolution\\dividearrayintoequalpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643A83BF-BB8E-487A-9942-B49A5A307EF4}|DivideArrayIntoEqualPairs\\DivideArrayIntoEqualPairs.csproj|solutionrelative:dividearrayintoequalpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F6CC61-6300-405F-B9DE-D464D167FC41}|NumberOfSubstringsContainingAllThreeCharacters\\NumberOfSubstringsContainingAllThreeCharacters.csproj|d:\\solvingproblem\\leetcodesolution\\numberofsubstringscontainingallthreecharacters\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83F6CC61-6300-405F-B9DE-D464D167FC41}|NumberOfSubstringsContainingAllThreeCharacters\\NumberOfSubstringsContainingAllThreeCharacters.csproj|solutionrelative:numberofsubstringscontainingallthreecharacters\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +48,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "D:\\SolvingProblem\\LeetCodeSolve\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
+              "DocumentMoniker": "D:\\SolvingProblem\\LeetCodeSolution\\DivideArrayIntoEqualPairs\\Solution.cs",
+              "RelativeDocumentMoniker": "DivideArrayIntoEqualPairs\\Solution.cs",
+              "ToolTip": "D:\\SolvingProblem\\LeetCodeSolution\\DivideArrayIntoEqualPairs\\Solution.cs",
+              "RelativeToolTip": "DivideArrayIntoEqualPairs\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:56:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\SolvingProblem\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
               "RelativeDocumentMoniker": "NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
-              "ToolTip": "D:\\SolvingProblem\\LeetCodeSolve\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
+              "ToolTip": "D:\\SolvingProblem\\LeetCodeSolution\\NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
               "RelativeToolTip": "NumberOfSubstringsContainingAllThreeCharacters\\Solution.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

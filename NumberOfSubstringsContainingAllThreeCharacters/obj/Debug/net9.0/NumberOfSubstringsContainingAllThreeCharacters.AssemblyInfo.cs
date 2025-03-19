@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberOfSubstringsContainingAllThreeCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f63d962f570f049451520ec0c0b5739472a0056")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0bdb398157061c611d4da58ccedf6c2f9429418")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberOfSubstringsContainingAllThreeCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberOfSubstringsContainingAllThreeCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

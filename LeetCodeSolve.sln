@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsContainin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideArrayIntoEqualPairs", "DivideArrayIntoEqualPairs\DivideArrayIntoEqualPairs.csproj", "{643A83BF-BB8E-487A-9942-B49A5A307EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestNiceSubarray", "LongestNiceSubarray\LongestNiceSubarray.csproj", "{271102E4-F55F-4917-A824-95612A67F72B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643A83BF-BB8E-487A-9942-B49A5A307EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271102E4-F55F-4917-A824-95612A67F72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271102E4-F55F-4917-A824-95612A67F72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271102E4-F55F-4917-A824-95612A67F72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271102E4-F55F-4917-A824-95612A67F72B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
